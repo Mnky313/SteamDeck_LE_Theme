@@ -7,3 +7,4 @@ Install [CSS Loader for Decky](https://deckthemes.com/download/deck)
 
 Place the 'OLED Limited Edition' folder inside `/home/deck/homebrew/themes/`
 
+If you run into any unthemed accents please open an issue/pr.

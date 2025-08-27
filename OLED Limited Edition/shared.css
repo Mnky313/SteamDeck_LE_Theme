@@ -1,0 +1,250 @@
+:root {
+	--virtualmenu-accent: #FF6600 !important;
+	--virtualmenupointer-color: #FF6600 !important;
+    --colored-toggles-main-color: #ff6600 !important;
+    --colored-toggles-static-color: #FF6600 !important;
+    --gpColor-Blue: #FF6600 !important;
+}
+
+/* Sliders */
+._2_vG6TwMW2XtyLlTEaODH9 {
+	--left-track-color: #FF6600;
+}
+.SliderTrack::before {
+	background: #ff6600;
+}
+
+/* Toggles */
+._2bl0iQ9xigbq4Zd1NI6NZl::before {
+	background: #FF6600;
+}
+
+/* Checkboxes */
+.HijmccPB1BKyhOwhX1EVl._3-_jME_xsuvgT3Dvq4bw_q, .HijmccPB1BKyhOwhX1EVl._3-_jME_xsuvgT3Dvq4bw_q:hover {
+	background: radial-gradient(#ff6600bb 0%, #ff6600 100%);
+}
+.SVGIcon_DialogCheck > defs > linearGradient > stop {
+	stop-color: #ff6600;
+}
+
+.u8QEaEpjqBM8RuPzRLjMy.j418S4TEV2LS3JHn6an4s {
+	background-color: #ff6600;
+}
+
+._7EGqd8bdiXJBd2fj5Hh8r ._2sQtvR60AbFF5UzDwY9hit._1gKI37LOWj1Df3QSnxvKyF {
+	background-color: #ff6600;
+}
+
+button.cXzBZxhPBl7fZs9LODEnc.DialogButton.gpfocus.Primary, button.cXzBZxhPBl7fZs9LODEnc.DialogButton:active.Primary, button.cXzBZxhPBl7fZs9LODEnc.DialogButton:enabled.gpfocus.Primary, button.cXzBZxhPBl7fZs9LODEnc.DialogButton:enabled:active.Primary, button.cXzBZxhPBl7fZs9LODEnc.DialogButton:active.gpfocus.Primary, button.cXzBZxhPBl7fZs9LODEnc.DialogButton:active:active.Primary, button.cXzBZxhPBl7fZs9LODEnc.DialogButton:enabled:active:hover.gpfocus.Primary, button.cXzBZxhPBl7fZs9LODEnc.DialogButton:enabled:active:hover:active.Primary {
+	background: #ff6600;
+}
+
+/* gamepad bindings selection */
+._4nzjXgyjln-Smt1E17DVF.CX4Dp8XyHswkGEEnWeUpq .eUq_I0gb5u7xNXESXeTsl {
+	color: #ff6600;
+}
+
+/* recordings banner */
+._2xWDffvlKnKW8aDKyFyg0n ._1TaBg1kjP1wN-j8LZ0VyhZ {
+	color: #ff6600;
+	background-color: #ff660030;
+}
+
+/* recordings settings */
+._3Cqjn4ZCF_ooB9QdEA-tKi._1aBr4F-yYtm9OnDrnaLTae {
+	border: 1px solid #ff6600dd;
+	background: radial-gradient(85.39% 115.04% at 13.03% -9.47%, #442200 0%, #221102 99.41%);
+	color: #ff6600;
+}
+._3Lw0_xiOn-_VGCOMi6NUVk ._2jiG8w8sVwGu2jwOMfyI92 {
+	color: #ff6600;
+}
+._3Lw0_xiOn-_VGCOMi6NUVk ._3ecQ1hQjQoPVLsXOMrf0Ss {
+	color: #ff6600dd;
+}
+._3Cqjn4ZCF_ooB9QdEA-tKi._1aBr4F-yYtm9OnDrnaLTae ._3uZxZMpdYwX9n7FfpbFttN ._28VIcjS3EY0OjoovbKmQmF {
+	color: #ff6600dd;
+}
+
+/* help links */
+.DialogBody a {
+	color: #ff9944
+}
+
+/* updates page banner */
+._1f0dZzzkepidbFYKDYcvUS._16alyvCWvtDwRsTAUJsXCx {
+	color: #b0ad92
+}
+
+/* storage usage */
+._22KCiI1IJ7Op5fP8OZtqa- {
+	background-color: #ff6600
+}
+
+/* Toggle that is on */
+.gamepaddialog_ToggleRail_2JtC3::before {
+	background: #FF6600 !important;
+}
+
+.gamepadslider_SliderTrack_Mq25N::before {
+    background: #FF6600 !important;
+}
+
+/* Enabled tick of a slider with ticks below */
+div .gamepadslider_SliderNotchTick_Fv1Ht.gamepadslider_TickActive_1gnUV {
+	background: #FF6600 !important;
+} 
+
+/* Friends badge on the home screen */
+.appdetailsfriendssection_FriendsPlayingNowBadge_38sNQ.appdetailsfriendssection_InFriendsTab_15Vpl {
+	background: #FF6600 !important;
+	color: black !important;
+}
+
+/* Current page mark in the steam button side menu */
+div .mainmenu_Item_2w9Tp .mainmenu_ActiveDot_1uLVH,
+.mainmenuapprunning_NavigationMenuItem_1G0K4 .mainmenuapprunning_ActiveDot_13YbV {
+	background: #FF6600 !important;
+}
+
+/* Play button on a game */
+.BasicUI .appactionbutton_Green_3cI5T .appactionbutton_ButtonChild_2AzIX.Focusable:focus {
+	background: #FF6600 !important;
+}
+
+/* Play icon on a play button on a game */
+.BasicUI .appactionbutton_Green_3cI5T .appactionbutton_ButtonChild_2AzIX.Focusable:focus > svg {
+	color: black !important;
+}
+
+/* Text on a play button on a game */
+.appactionbutton_PlayButton_3ydig.gpfocus > .appactionbutton_ButtonText_33cnX {
+	color: black !important;
+}
+
+/* Download button on a game */
+.BasicUI .appactionbutton_ButtonChild_2AzIX.Focusable:focus {
+	background: #FF6600 !important;
+}
+
+/* Download icon on the download button of a game */
+.BasicUI .appactionbutton_ButtonChild_2AzIX.Focusable:focus > svg {
+	color: black !important;
+}
+
+/* Text on the download button of a game */
+.BasicUI .appactionbutton_ButtonChild_2AzIX.Focusable:focus .appactionbutton_ButtonText_33cnX {
+	color: black !important;
+}
+
+/* New to library text. */
+.appportrait_AppPortraitBanner_N8aJr {
+	background: #FF6600 !important;
+	color: black !important; 
+  }
+
+/* Progress bar at the bottom of installing games in the home menu. */
+.appportrait_UninstalledBar_kX-tI .appportrait_UninstalledProgressBar_mA39H {
+	background: #FF6600 !important;
+}
+
+/* Download bar in the top header. */
+.header_HeaderDownloadContainer_2ssr3 .header_HeaderAppPortraitContainer_1PbL3 .header_HeaderDownloadProgressBarBackground_vo3Tt .header_HeaderDownloadProgressBar_AK_Ax {
+	background: #FF6600 !important;
+}
+
+/* Download bar underneath the download button. */
+div .BasicUI .appdetailsplaysection_DetailsProgressContainer_25YVD .appdetailsplaysection_DetailsProgressBar_1FnTq {
+	background: #FF6600 !important;
+}
+
+/* Continue download button on downloads screen. */
+div .downloads_SectionItemWrapper_21P7c.gpfocus .downloads_SectionItem_1VNuY.downloads_Active_IbePL .downloads_Button_3oavR.DialogButton:enabled {
+	background: #FF6600 !important;
+}
+
+/* Download text above download bar. Animations and gradients seemingly unsupported */
+div .downloads_SectionItemStatus_1Sygg .downloads_Downloading_33BlY .downloads_State_2ns4w {
+	color: #FF6600 !important;
+}
+
+.downloads_Button_3oavR {
+	background: #FF6600 !important;
+}
+
+/* Play/Install buttons in game context menu */
+.gamepadcontextmenu_contextMenuItem_1sdvo.gamepadcontextmenu_Focused_X813r.gamepadcontextmenu_Positive_2gJWj, .gamepadcontextmenu_contextMenuItem_1sdvo.gamepadcontextmenu_Focused_X813r.Stream, .gamepadcontextmenu_contextMenuItem_1sdvo.gamepadcontextmenu_Focused_X813r.Connect, .gamepadcontextmenu_contextMenuItem_1sdvo.gamepadcontextmenu_Focused_X813r.Launch, .gamepadcontextmenu_contextMenuItem_1sdvo.gamepadcontextmenu_Focused_X813r.PlayMusic, .gamepadcontextmenu_contextMenuItem_1sdvo.gamepadcontextmenu_Focused_X813r.Play, .gamepadcontextmenu_contextMenuItem_1sdvo.gamepadcontextmenu_Focused_X813r.Resume, .gamepadcontextmenu_contextMenuItem_1sdvo.gamepadcontextmenu_Focused_X813r.BorrowApp,
+.gamepadcontextmenu_contextMenuItem_1sdvo.gamepadcontextmenu_Focused_X813r.gamepadcontextmenu_Emphasis_1viOG, .gamepadcontextmenu_contextMenuItem_1sdvo.gamepadcontextmenu_Focused_X813r.Download, .gamepadcontextmenu_contextMenuItem_1sdvo.gamepadcontextmenu_Focused_X813r.Update, .gamepadcontextmenu_contextMenuItem_1sdvo.gamepadcontextmenu_Focused_X813r.PreLoad, .gamepadcontextmenu_contextMenuItem_1sdvo.gamepadcontextmenu_Focused_X813r.Install, .gamepadcontextmenu_contextMenuItem_1sdvo.gamepadcontextmenu_Focused_X813r.Pause,
+button.gamepaddialog_Button_1kn70.DialogButton.gpfocus.Primary, button.gamepaddialog_Button_1kn70.DialogButton:active.Primary, button.gamepaddialog_Button_1kn70.DialogButton:enabled.gpfocus.Primary, button.gamepaddialog_Button_1kn70.DialogButton:enabled:active.Primary, button.gamepaddialog_Button_1kn70.DialogButton:active.gpfocus.Primary, button.gamepaddialog_Button_1kn70.DialogButton:active:active.Primary, button.gamepaddialog_Button_1kn70.DialogButton:hover.gpfocus.Primary, button.gamepaddialog_Button_1kn70.DialogButton:hover:active.Primary, button.gamepaddialog_Button_1kn70.DialogButton:enabled:active:hover.gpfocus.Primary, button.gamepaddialog_Button_1kn70.DialogButton:enabled:active:hover:active.Primary {
+	background: #FF6600 !important;
+	color: black !important;
+}
+
+/* Install Dropdown in background */
+:not(._1Pb6PMh_3L5p5NzuUz0Pp9)>.BasicUI ._2AzIX5kl9k6JnxLfR5H4kX:hover {
+	background: #FF6600 !important;
+}
+
+/* Achievement progress bar */
+.BasicUI .appdetailsachievementssection_AchievementProgressContainer_3ns91 .appdetailsachievementssection_AchievementProgress_3Rm36 {
+	background: #FF6600 !important;
+}
+
+/* Main Menu selection */
+._2b6L36XnXUqFHHkGE4_2mv ._3Il1BD4p9lccpjISQKhR1X {
+	background: #ff6600 !important;
+}
+
+/* Button Hover */
+button.DialogButton.Primary:hover, button.DialogButton.Primary.gpfocus {
+	background: #ff6600 !important;
+	color: black !important;
+}
+
+/* Button mapping drop shadows */
+._2MjBd1kKOEyVfqBN5OQOb1.gpfocus, ._2swvcAycL4d0UoHFDoe6-d.gpfocus {
+	filter: drop-shadow(0px 0px 10px #ff660090);
+}
+._3i-XV362MvNEX3j_oWQDmQ.gpfocus, ._3s28A0XlOXUOAWRIuBKHuH.gpfocus {
+	filter: drop-shadow(0px 0px 10px #ff660090);
+}
+._4nzjXgyjln-Smt1E17DVF.gpfocus .eUq_I0gb5u7xNXESXeTsl {
+	filter: drop-shadow(0px 0px 10px #ff660090);
+}
+._19SMSHLlXqSLnXM3NjDNBS.gpfocus {
+	filter: drop-shadow(0px 0px 10px #ff660090);
+}
+.NoRFSLSfwRijJQt7R51OT.gpfocus {
+	filter: drop-shadow(0px 0px 10px #ff660090);
+}
+._3yP_pf4vx1Q4W0mt2DR32P.gpfocus {
+	filter: drop-shadow(0px 0px 10px #ff660090);
+}
+._1Ze1RZ7I8e5cSlaWAl48bh.gpfocus {
+	filter: drop-shadow(0px 0px 10px #ff660090);
+}
+
+/* Update text */
+.Y36on_okii3CIwea3_ojO .pW4WLhoXJZJVMnyR5aTRu .PHNS8MYXu4gl3AanNLOiN {
+	color: #FF6600 !important;
+}
+
+/* selected device for play button */
+._1mpeIo_E-qVxqb3DeRrQvl > svg > defs > linearGradient > stop {
+    stop-color: #f60 !important;
+}
+
+/* Cloud saves space & storage space */
+._1FyBL6obxHQ2Z2CsaV2Gbz .DialogBody ._1KmR8MOpvgQ9OO2AmwOCca {
+    color: rgb(255, 128, 0) !important;
+}
+
+/* Selected controller */
+._1FyBL6obxHQ2Z2CsaV2Gbz .DialogBody ._3lj3-GDYOlcoIFB3fFo1ko .nsJRdcmwAO0dIk0dR87fv ._3QVsc21O3y-P2jJiD5t6-s._11Gq_4A3cMXdDfUnoeM14v {
+    background-color: rgb(255, 128, 0) !important;
+}
+
+/* available stream devices */
+._9sxq5tjxjWGS7ZqKqbeUN {
+    color: rgb(255, 153, 68) !important;
+}

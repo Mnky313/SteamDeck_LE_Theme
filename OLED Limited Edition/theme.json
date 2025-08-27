@@ -1,0 +1,11 @@
+{
+    "name": "OLED Limited Edition",
+    "author": "Katzteam",
+    "version": "v2.0",
+    "description": "Replaces accents with Orange to match the Limited Edition OLED Model",
+    "target": "Other",
+    "manifest_version": 8,
+    "inject": {
+      "shared.css": ["bigpicture", "QuickAccess", "MainMenu"]
+    }
+  }
