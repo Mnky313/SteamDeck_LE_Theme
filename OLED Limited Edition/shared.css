@@ -159,7 +159,7 @@ div .BasicUI .appdetailsplaysection_DetailsProgressContainer_25YVD .appdetailspl
 }
 
 /* Continue download button on downloads screen. */
-div .downloads_SectionItemWrapper_21P7c.gpfocus .downloads_SectionItem_1VNuY.downloads_Active_IbePL .downloads_Button_3oavR.DialogButton:enabled, .BasicUI ._1VNuYHM6BPBOJspC6zPf5r.IbePLaw-vSvhG1GTenYFg ._3oavRVhIS9tC3vBsFT4Ggi.DialogButton:enabled {
+.downloads_SectionItemWrapper_21P7c.gpfocus .downloads_SectionItem_1VNuY.downloads_Active_IbePL .downloads_Button_3oavR.DialogButton:enabled, .BasicUI ._1VNuYHM6BPBOJspC6zPf5r.IbePLaw-vSvhG1GTenYFg ._3oavRVhIS9tC3vBsFT4Ggi.DialogButton:enabled {
 	background: #FF6600;
 }
 
@@ -170,6 +170,10 @@ div .downloads_SectionItemStatus_1Sygg .downloads_Downloading_33BlY .downloads_S
 
 .downloads_Button_3oavR {
 	background: #FF6600;
+}
+
+.Oo5JPcEk_erKEYAzYp2nY.gkgG-dWgjpwS_aqlcMNTM {
+	background: #ff6600;
 }
 
 /* Play/Install buttons in game context menu */
