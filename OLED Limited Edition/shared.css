@@ -23,8 +23,9 @@
 .HijmccPB1BKyhOwhX1EVl._3-_jME_xsuvgT3Dvq4bw_q, .HijmccPB1BKyhOwhX1EVl._3-_jME_xsuvgT3Dvq4bw_q:hover {
 	background: radial-gradient(#ff6600bb 0%, #ff6600 100%);
 }
-.SVGIcon_DialogCheck > defs > linearGradient > stop {
-	stop-color: #ff6600 !important;
+/* Also probably does other stuff */
+stop[stop-color="#00ccff"], stop[stop-color="#2d73ff"] {
+	stop-color: #ff6600;
 }
 
 .u8QEaEpjqBM8RuPzRLjMy.j418S4TEV2LS3JHn6an4s {
