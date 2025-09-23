@@ -24,7 +24,7 @@
 	background: radial-gradient(#ff6600bb 0%, #ff6600 100%);
 }
 .SVGIcon_DialogCheck > defs > linearGradient > stop {
-	stop-color: #ff6600;
+	stop-color: #ff6600 !important;
 }
 
 .u8QEaEpjqBM8RuPzRLjMy.j418S4TEV2LS3JHn6an4s {
@@ -256,4 +256,17 @@ button.DialogButton.Primary:hover, button.DialogButton.Primary.gpfocus {
 /* Local Transfer banner */
 .E77_ojZbdMlTc1bWOUTC8 {
 	background: #FF6600;
+}
+
+/* Patch Notes in Downloads */
+._3kXEpnxa2qb5znYMSbKT0p > .-OgRzXqfwOvAWFZS3Rk_N > path {
+	fill: #FF6600;
+}
+._3kXEpnxa2qb5znYMSbKT0p ._1nCT-M7nZcoNzedbVzbXha {
+	color: #FF6600;
+}
+
+/* Cloud Save Upload Percentage */
+.fUTblKw-DF3ph-FUGHA1d ._2QVGKFXgbKWshQ9KbbXqpb,.fUTblKw-DF3ph-FUGHA1d ._1QqBvPhXFxnS3S0ay1fn_k {
+    color: #FF6600
 }
