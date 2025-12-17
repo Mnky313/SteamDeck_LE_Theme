@@ -319,7 +319,7 @@ button.DialogButton.Primary.gpfocus {
 	color: #FF6600
 }
 
-/* Sidebar selection icon */
-._2w9TpQwxU7vcwaAbf3KGv_ ._1uLVHdiiCg78BRnhqLxUID {
-	background: #FF6600
+/* Sidebar selection icon (no idea why I can't use ._2w9TpQwxU7vcwaAbf3KGv_ ._1uLVHdiiCg78BRnhqLxUID like it uses originally */
+div[role='menuitem']>div[class='_1uLVHdiiCg78BRnhqLxUID'] {
+	background: #FF6600;
 }
