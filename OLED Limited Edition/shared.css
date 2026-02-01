@@ -316,10 +316,15 @@ button.DialogButton.Primary.gpfocus {
 /* Cloud Save Upload Percentage */
 .fUTblKw-DF3ph-FUGHA1d ._2QVGKFXgbKWshQ9KbbXqpb,
 .fUTblKw-DF3ph-FUGHA1d ._1QqBvPhXFxnS3S0ay1fn_k {
-	color: #FF6600
+	color: #FF6600;
 }
 
 /* Sidebar selection icon (no idea why I can't use ._2w9TpQwxU7vcwaAbf3KGv_ ._1uLVHdiiCg78BRnhqLxUID like it uses originally */
 div[role='menuitem']>div[class='_1uLVHdiiCg78BRnhqLxUID'] {
 	background: #FF6600;
+}
+
+/* News XP Boost header (probably others) */
+._3A_c3YHYd4YIjA8Y-olnPl ._1f0dZzzkepidbFYKDYcvUS {
+	color: #FF6600;
 }
