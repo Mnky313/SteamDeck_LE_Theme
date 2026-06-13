@@ -328,3 +328,9 @@ div[role='menuitem']>div[class='_1uLVHdiiCg78BRnhqLxUID'] {
 ._1f0dZzzkepidbFYKDYcvUS {
 	color: #FF6600;
 }
+
+/* Settings menu focus highlight */
+._2mL2HfT5AkDXRi1YBnRWKa:focus {
+	background: linear-gradient(90deg, rgba(255, 128, 0, 0.4) 0%, rgba(255, 128, 0, 0) 100%);
+	border-left: 2px solid #FF6600;
+}
